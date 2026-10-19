@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "first_after_hours": 0,
-  "min_outputs": 1,
-  "interval_active_days": 1,
+  "first_after_hours": 48,
+  "min_outputs": 3,
+  "interval_active_days": 3,
   "max_shows": 4,
   "quota_warn_percent": 80
 }
